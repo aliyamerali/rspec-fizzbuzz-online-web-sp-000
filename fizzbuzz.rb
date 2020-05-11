@@ -2,11 +2,11 @@
 # See README.md for instructions on how to do this
 def fizzbuzz(x)
   if x%3 == 0 && x%5 == 0
-    return "fizzbuzz"
+    return "Fizzbuzz"
   elsif x%3 == 0
-    return "fizz"
+    return "Fizz"
   elsif x%5 == 0
-    return "buzz"
+    return "Buzz"
   else
     return nil
   end
