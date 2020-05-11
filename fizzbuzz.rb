@@ -11,8 +11,3 @@ def fizzbuzz(x)
     return nil
   end
 end
-
-fizzbuzz(15)
-fizzbuzz(5)
-fizzbuzz(3)
-fizzbuzz(4)
