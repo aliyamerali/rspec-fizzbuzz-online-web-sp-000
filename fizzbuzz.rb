@@ -10,3 +10,5 @@ define fizzbuzz(input)
   else
     return nil
 end
+
+fizbuzz(15)
