@@ -11,4 +11,4 @@ define fizzbuzz(input)
     return nil
 end
 
-fizbuzz(15)
+fizzbuzz(15)
